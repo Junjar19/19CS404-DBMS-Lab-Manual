@@ -1,7 +1,7 @@
 # Experiment 9: PL/SQL – Procedures and Functions
 
-## NAME: Nikhil H
-## REG.NO: 212224040219
+## NAME: Junjar U
+## REG.NO: 212224040110
 
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
